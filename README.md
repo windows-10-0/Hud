@@ -17,6 +17,6 @@
 - Discord: https://discord.gg/NdarbnDnJh
 - Ask if you need something
 # Preview
-![image](https://github.com/user-attachments/assets/08de819a-7a57-4198-84ac-989bb5e22130)
-![image](https://github.com/user-attachments/assets/953abba9-18ba-4a5f-9cf3-423bb41d8aa8)
-![image](https://github.com/user-attachments/assets/e5617e90-84a3-4e0d-89b7-aff10365552d)
+![image](https://github.com/user-attachments/assets/7cd72eee-b539-4389-953c-6ff787ac19e5)
+![image](https://github.com/user-attachments/assets/65a555fb-35c3-41d2-9d61-6993aaeb590d)
+![image](https://github.com/user-attachments/assets/e4fcf0b0-bc19-4c73-9adb-696148e3e42d)
